@@ -9,7 +9,7 @@ Demo: https://gibon87.github.io/changeColorOnClick
 
 Feel free to:
 <ul>
-  <li></just click on the button></li>
+  <li><just click on the button></li>
 </ul>
 
 <h2>Used:</h2>
