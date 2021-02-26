@@ -1,7 +1,7 @@
 <h1>Change color on click App</h1>
 <p> It's not a rocket scienge, but simple button who's gonna change background-color when you click on it ;) </p>
 
-Demo: https://gibon87.github.io/changeColorOnClick
+Demo: https://gibon87.github.io/changeColorOnClick/
       
 <hr>
 
